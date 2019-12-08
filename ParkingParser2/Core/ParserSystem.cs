@@ -53,10 +53,13 @@ namespace ParkingParser2.Core
                     //Получаем значения из документа
                     string[] Values = ControllerParser.GetValuesFromHTML(Document, 5);
 
-                    // Отправка данных на веб-сервер
-                    WebServerClient.SendGETRequest(Values);
+                    if(Values[0] != null)
+                    {
+                        // Отправка данных на веб-сервер                   
+                        WebServerClient.SendGETRequest(Values);
 
-                    Logger.Log("Отправлены данные: Sensor1 = " + Values[1] + " Sensor2 = " + Values[2] + " Sensor3 = " + Values[3] + " Sensor4 = " + Values[4], RecordType.INFO, Source.Parser);
+                        Logger.Log("Отправлены данные: Sensor1 = " + Values[1] + " Sensor2 = " + Values[2] + " Sensor3 = " + Values[3] + " Sensor4 = " + Values[4], RecordType.INFO, Source.Parser);
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -66,6 +69,9 @@ namespace ParkingParser2.Core
             catch (Exception ex)
             {
                 Logger.Log("Произошла ошибка подключения к контроллеру", RecordType.ERROR, Source.Parser);
+
+                WebServerClient.SendGETRequestError();
+                Logger.Log("На сервер отправлены данные об ошибке!", RecordType.WARNING, Source.Parser);
             }
         }
 

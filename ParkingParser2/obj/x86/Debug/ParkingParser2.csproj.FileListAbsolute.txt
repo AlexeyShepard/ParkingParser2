@@ -20,3 +20,25 @@ C:\PP\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.csproj.CopyComp
 C:\PP\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.exe
 C:\PP\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.pdb
 C:\PP\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.csprojAssemblyReference.cache
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\ParkingParser2.exe.config
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\ParkingParser2.exe
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\ParkingParser2.pdb
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\AngleSharp.dll
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\INIFileParser.dll
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\AngleSharp.xml
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\INIFileParser.xml
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.csprojAssemblyReference.cache
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\MainWindow.g.cs
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\App.g.cs
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2_MarkupCompile.cache
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2_MarkupCompile.lref
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\MainWindow.baml
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.g.resources
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.Properties.Resources.resources
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.csproj.GenerateResource.cache
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.csproj.CopyComplete
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.exe
+F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\x86\Debug\ParkingParser2.pdb
