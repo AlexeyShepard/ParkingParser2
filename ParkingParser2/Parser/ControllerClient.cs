@@ -27,13 +27,21 @@ namespace ParkingParser2.Parser
             {
                 HttpClient Client = new HttpClient();
 
-                this.Response = await Client.GetStringAsync(this.Url);
+                HttpRequestMessage HttpRequestMessage = new HttpRequestMessage(HttpMethod.Get, this.Url);
+
+                HttpResponseMessage HttpResponseMessage = await Client.SendAsync(HttpRequestMessage);
+
+                string StatusCode = HttpResponseMessage.StatusCode.ToString();
+
+                Logger.Log("Код статуса: " + StatusCode, RecordType.ERROR, Source.Parser);
+
+                this.Response = await HttpResponseMessage.Content.ReadAsStringAsync();
 
                 return this.Response;
             }
             catch (Exception ex)
             {
-                Logger.Log("Контроллер: " + ex.Message, RecordType.ERROR, Source.Parser);
+                Logger.Log("Контроллер: " + ex.Message + " " + ex.HResult, RecordType.ERROR, Source.Parser);
                 return this.Response;
             }
         }

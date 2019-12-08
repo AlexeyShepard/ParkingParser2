@@ -20,3 +20,24 @@ F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\Debug\AngleSharp.xml
 F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\Debug\INIFileParser.xml
 F:\Codding Motherfucker\ParkingParser2\ParkingParser2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 F:\Codding Motherfucker\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.csproj.CopyComplete
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\ParkingParser2.exe.config
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\ParkingParser2.exe
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\ParkingParser2.pdb
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\AngleSharp.dll
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\INIFileParser.dll
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\AngleSharp.xml
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\INIFileParser.xml
+C:\PP\ParkingParser2\ParkingParser2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\MainWindow.g.cs
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\App.g.cs
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2_MarkupCompile.cache
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2_MarkupCompile.lref
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\MainWindow.baml
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.g.resources
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.Properties.Resources.resources
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.csproj.GenerateResource.cache
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.csproj.CopyComplete
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.exe
+C:\PP\ParkingParser2\ParkingParser2\obj\Debug\ParkingParser2.pdb

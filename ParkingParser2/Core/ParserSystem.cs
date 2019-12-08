@@ -45,8 +45,6 @@ namespace ParkingParser2.Core
                 // Отправляем запрос на микроконтроллер и получаем текст ответа
                 string Response = await ControllerClient.GetHTMLPageAsync();
 
-                if (Response == "") throw new Exception();
-
                 try
                 {
                     // Формируем документ из ответа
